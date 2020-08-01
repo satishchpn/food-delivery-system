@@ -1,0 +1,46 @@
+[
+  {
+    "address": "Bangalore",
+    "description": "BNG Restaurant",
+    "menu": [
+      {
+        "itemDescription": "Indian",
+        "itemName": "Litti",
+        "itemPrice": 20
+      },
+      {
+        "itemDescription": "Chinese",
+        "itemName": "Noodle",
+        "itemPrice": 40
+      }
+    ],
+    "restaurantName": "Bangalore Restaurant"
+  },
+  {
+    "address": "Ranchi",
+    "description": "RNC Restaurant",
+    "menu": [
+      {
+        "itemDescription": "NonVeg",
+        "itemName": "Fish",
+        "itemPrice": 120
+      },
+      {
+        "itemDescription": "NonVeg",
+        "itemName": "Egg",
+        "itemPrice": 10
+      },
+      {
+        "itemDescription": "Indian",
+        "itemName": "Litti",
+        "itemPrice": 60
+      },
+      {
+        "itemDescription": "Chinese",
+        "itemName": "Noodle",
+        "itemPrice": 30
+      }
+    ],
+    "restaurantName": "Ranchi Restaurant"
+  }
+]

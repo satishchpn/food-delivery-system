@@ -1,0 +1,22 @@
+{
+  "estimatedTimeInMinute": 40,
+  "oredrStatus": "PENDING",
+  "totalPrice": 60,
+  "customerName": "Satish",
+  "orderInstruction": "Call Me Once Come",
+  "address": "Marathalli",
+  "orderItems": [
+    {
+      "itemName": "Litti",
+      "restaurantId": "1",
+      "itemInstruction": "More Ghee",
+      "itemPrice": 20
+    },
+    {
+      "itemName": "Noodle",
+      "restaurantId": "1",
+      "itemInstruction": "Less Spicy",
+      "itemPrice": 40
+    }
+  ]
+}
